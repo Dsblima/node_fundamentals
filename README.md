@@ -1,3 +1,3 @@
-# node_fundamentals
+# Ignite NodeJS Chapter 1
 * This project presents some basic concepts of NodeJs, route definition, type of params,...
 * This project correponds to module one of the Ingite NodeJs.
